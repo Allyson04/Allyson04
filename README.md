@@ -1,6 +1,6 @@
 Hi, Welcome to My GitHub!!!
 
-I am AlLyson Eduardo, starting Web development and aiming to be a Fullstack developer.
+I am Allyson Eduardo, starting Web development and aiming to be a Fullstack developer.
 
    - 🎓 I already know some technologies, like `.html`, `.css` and basic notions about Git and GitHub.
 
