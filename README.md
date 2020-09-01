@@ -32,4 +32,4 @@ Sou Allyson Eduardo, iniciando o estudo de Desenvolvimento Web e buscando ser Fu
    - 📮 Caso deseje me contatar, pode enviar email para allysoneduardo04@gmail.com ou pelo linkedin: linkedin.com/in/allyson02
    
    
-      ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+      ![Allyson04's github stats](https://github-readme-stats.vercel.app/api?username=Allyson04)
