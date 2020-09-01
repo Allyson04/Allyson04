@@ -15,7 +15,6 @@ I am Allyson Eduardo, starting Web development and aiming to be a Fullstack deve
    - 📮 If you want to contact me, send a mail to allysoneduardo04@gmail.com or by LinkedIn: linkedin.com/in/allyson02
    
    
-   
 Olá, Bem vindo ao Meu GitHub!!!
 
 Sou Allyson Eduardo, iniciando o estudo de Desenvolvimento Web e buscando ser Fullstack developer.
@@ -31,3 +30,6 @@ Sou Allyson Eduardo, iniciando o estudo de Desenvolvimento Web e buscando ser Fu
    - ⚡Curiosidade: Eu coleciono papéis de paredes e quero aprender a desenhar.
 
    - 📮 Caso deseje me contatar, pode enviar email para allysoneduardo04@gmail.com ou pelo linkedin: linkedin.com/in/allyson02
+   
+   
+      ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
