@@ -33,3 +33,5 @@ Sou Allyson Eduardo, iniciando o estudo de Desenvolvimento Web e buscando ser Fu
    
    
       ![Allyson04's github stats](https://github-readme-stats.vercel.app/api?username=Allyson04)
+      
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allyson04)](https://github.com/anuraghazra/github-readme-stats
