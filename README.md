@@ -2,7 +2,7 @@ Hi, Welcome to My GitHub!!!
 
 I am Allyson Eduardo, starting Web development and aiming to be a Fullstack developer.
 
-   - 🎓 I already know some technologies, like `.html`, `.css` and basic notions about Git and GitHub.
+   - 🎓 I already know some technologies, like `.html`, `.css`, `.js` and notions about Git and GitHub.
 
    - ✈️ I'm learning Javascript and becoming better at my knowledge about Git.
 
@@ -19,7 +19,7 @@ Olá, Bem vindo ao Meu GitHub!!!
 
 Sou Allyson Eduardo, iniciando o estudo de Desenvolvimento Web e buscando ser Fullstack developer.
 
-   - 🎓 As tecnologias que estou familiarizado até o momento são `.html`, `.css` e Noções de uso do Git e GitHub.
+   - 🎓 As tecnologias que estou familiarizado até o momento são `.html`, `.css`, `.js` e Noções de uso do Git e GitHub.
 
    - ✈️ No momento estou aprendendo javascript e melhorando o que já conheço de git.
 
