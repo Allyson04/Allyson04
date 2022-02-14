@@ -1,141 +1,97 @@
+# Hi, Welcome to Allyson Eduardo's GitHub.</h1>
+  
+This is Allyson Eduardo Improved Readme, feel free to contact him by: ![email: allysoneduardo04@gmail.com](https://img.shields.io/badge/email-allysoneduardo04@gmail.com-blue?logo=gmail), ![linkedin account: linkedin.com/in/allyson04](https://img.shields.io/badge/linkedin-in/allyson04-green?logo=linkedin) or ![Whatsapp Number: +55 21 96599 7873](https://img.shields.io/badge/whatsapp-+55%2021%2096599%207873-white?logo=whatsapp).
 
-<h1>Hi, Welcome to Allyson Eduardo's GitHub.</h1>
+## Description
 
-<p>This is Allyson Eduardo Improved Readme, feel free to contact him by:</p>
+Allyson Eduardo is interested in DevOps, but as a junior in this "new" sector, is still getting the ropes of the main technologies and tools.
 
-<main style="display: flex;flex-wrap: wrap;">
+Not just that, Allyson studied basic Development, and made many projects, such as:
+- https://github.com/Allyson04/fresquix_site
+- https://github.com/Allyson04/random_backgrounds
+- https://github.com/Allyson04/AmazingGraph
 
-<a href="mailto:allysoneduardo04@gmail.com" style="margin: 10px">
-<img src="https://i.imgur.com/GpqKQwe.png" alt="Mail logo by Freepik - Flaticon" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<span style="font-size: 20px;line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Email<span style="font-size: 20px;">
-</span></span></a>
+and a repository with [his studies of javascript here](https://github.com/Allyson04/learning_javascript).
 
-<a href="https://www.linkedin.com/in/allyson04/" style="margin: 10px">
-<img src="https://i.imgur.com/xjipoxz.png" alt="LinkedIn logo by riajulislam - FlatIcon" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<span style="font-size: 20px;line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Linkedin</span>
+With Docker and Kubernetes, a few projects were made, to train deployment and creation of docker images (Mainly from "Iniciativa Kubernetes" by Fabricio Veronez):
+- https://github.com/Allyson04/rotten-potatoes
+- https://github.com/Allyson04/conversao-peso
+
+Focusing on Service Integrations, Development and Operations, Allyson is , to become more familiar with using CLI, but for today, only knowing Bash is what he does. That way, commands like `systemctl`, `ps`, `chmod`, `ipconfig`, etc, greatly needed for linux management (also considering daily commands as copy, move, rename and others) are part of what he knows.
+
+## What Allyson know how to use
+
+### Tools
+  
+![](https://img.shields.io/badge/docker-lightgrey?logo=docker)
+![](https://img.shields.io/badge/github-blue?logo=github)
+![](https://img.shields.io/badge/Git-lightgrey?logo=git)
+![](https://img.shields.io/badge/PostgreSQL-brightgreen?logo=postgresql)
+![](https://img.shields.io/badge/Azure-blue?logo=azure-devops)
+![](https://img.shields.io/badge/Vim-green?logo=vim)
+![](https://img.shields.io/badge/Manjaro%20User-blue?logo=manjaro)
+
+### Languages
+  
+![](https://img.shields.io/badge/Python-green?logo=python)
+![](https://img.shields.io/badge/GNU-Bash-black?logo=gnubash)
+![](https://img.shields.io/badge/HTML5-lightblue?logo=html5)
+![](https://img.shields.io/badge/Javascript-gray?logo=javascript)
+![](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![](https://img.shields.io/badge/Selenium-white?logo=selenium)
+
+### Learning
+
+![](https://img.shields.io/badge/WSO2-orange?logo=WSO2)
+![](https://img.shields.io/badge/SQL-black?logo=sql)
+
+### Next steps
+
+![](https://img.shields.io/badge/Jenkins-white?logo=jenkins)
+![](https://img.shields.io/badge/Reinforce%20Kubernetes-red?logo=kubernetes)
+![](https://img.shields.io/badge/Elastic%20search-black?logo=elasticsearch)
+![](https://img.shields.io/badge/Logstash-blue?logo=logstash)
+![](https://img.shields.io/badge/Kibana-red?logo=kibana)
+![](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)
+
+
+### Badges
+
+<section id="badges" style="display: flex; flex-direction: row">
+    <img src="./assets/badges/Iniciativa Kubernetes - Explorador - Containers e Docker - 2021-09-29.png" alt="Iniciativa Kubernetes - Containers e Docker" style="width: 100px;">
+    <img src="./assets/badges/Iniciativa Kubernetes - Desbravador - Deploy no Kubernetes - 2021-10-04.png" alt="Iniciativa Kubernetes - Deploy no Kubernetes" style="width: 100px;">
+</section>
+
+
+## Infocharts
+
+<!--
+<a href="https://github.com/allyson04/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allyson04&layout=compact&&bg_color=42,0a0f0b,230002&title_color=b5332e&icon_color=E0AA3E&text_color=bf4a3f&border_color=c04e37&count_private=true" />
+</a>
+<a href="https://github.com/allyson04/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyson04&layout=compact&&bg_color=42,0a0f0b,230002&title_color=b5332e&icon_color=E0AA3E&text_color=bf4a3f&border_color=c04e37" />
 </a>
 
-<span style="font-size: 20px;line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">or</span>
+![Allyson Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=allyson04&show_icons=true&bg_color=0a0f0b&title_color=b5332e&icon_color=E0AA3E&text_color=bf4a3f&border_color=c04e37)
+![Allyson Eduardo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=allyson04&layout=compact)
 
-
-<a href="wa.me/55216599783?text=Hello%20Allyson%20Eduardo%21%20Nice%20to%20meet%20you%21" style="margin: 10px">
-<img src="https://i.imgur.com/CVJGxY1.png" alt="LinkedIn logo by Pixel perfect - Flaticon" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<span style="font-size: 20px;line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Whatsapp.</span>
+<a href="https://github.com/allyson04>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=allyson04&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0A0F0B&fire=DD2727&stroke=C04E37&sideNums=BF4A3F&currStreakLabel=BF4A3F&border=C04E37&sideLabels=B5332E&dates=E0AA3E" alt="allyson04" />
 </a>
-</main>
-
-<div class="description section">
-<h2>Description</h2>
-
-<p style="font-size: 20px;">Allyson Eduardo is interested in DevOps, but as a junior in this "new" sector, is still getting the ropes of the main technologies and tools.</p>
-
-<p style="font-size: 20px;">Not just that, Allyson studied basic Development, and made many projects, such as:
-<ul>
-<li>
-<a href="https://github.com/Allyson04/site_de_noticias_cidade">https://github.com/Allyson04/site_de_noticias_cidade</a>
-</li>
-<li>
-<a href="https://github.com/Allyson04/fresquix_site">https://github.com/Allyson04/fresquix_site</a>
-</li>
-<li>
-<a href="https://github.com/Allyson04/random_backgrounds">https://github.com/Allyson04/random_backgrounds</a>
-</li>
-<li>
-<a href="https://github.com/Allyson04/calculator-app">https://github.com/Allyson04/calculator-app</a>
-</li>
-<li>
-<a href="https://github.com/Allyson04/password_checker">https://github.com/Allyson04/password_checker</a>
-</li>
-<li>
-<a href="https://github.com/Allyson04/AmazingGraph">https://github.com/Allyson04/AmazingGraph</a>
-</li> 
-</ul>
-and a repository with his <a href="https://github.com/Allyson04/learning_javascript">studies of javascript here.</a></p>
-
-<p style="font-size: 20px;">Focusing on Service Integrations, Development and Operations, Allyson uses <a href="https://manjaro.org/">Manjaro Linux</a>, to become more familiar with using CLI, but for today, only knowing Bash is what he does. That way, commands like <code style="color: rgb(192, 197, 173);background-color: rgb(52, 57, 66);font-size: 14px;padding: 2px;border-radius: 3px;">systemctl</code>, <code style="color: rgb(192, 197, 173);background-color: rgb(52, 57, 66);font-size: 14px;padding: 2px;border-radius: 3px;">ps</code>, <code style="color: rgb(192, 197, 173);background-color: rgb(52, 57, 66);font-size: 14px;padding: 2px;border-radius: 3px;">chmod</code>, <code style="color: rgb(192, 197, 173);background-color: rgb(52, 57, 66);font-size: 14px;padding: 2px;border-radius: 3px;">ipconfig</code>, greatly needed for linux management (also considering daily commands as copy, move, rename, etc) are part of what he knows.</p>
-</div>
-
-<hr>
-
-<div class="study section">
-<h2>What Allyson know how to use:</h2>
-
-<h3>Tools</h3>
-<section id="tools" style="display: flex;flex-wrap: wrap;">
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/github.png?raw=true" alt="GitHub Logo by GitHub" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">GitHub</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://raw.githubusercontent.com/allyson04/tech-logos/master/git.png" alt="Git Logo by Git" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Git</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/postgres.png?raw=true" alt="PostgreSQL Logo by Postgres Organization" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">PostgreSQL</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/Allyson04/tech-logos/blob/master/docker.png?raw=true" alt="Docker Logo by Docker Company" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Docker</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/Allyson04/tech-logos/blob/master/wso2.png?raw=true" alt="WSO2 Logo by WSO2 Company" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">WSO2 (Beginning)</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/Allyson04/tech-logos/blob/master/azure.png?raw=true" alt="Azure Logo by Microsoft" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Azure</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://www.vim.org/images/vim_small.gif" alt="Vim Logo by Vim" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Vim</figcaption>
-</figure>
-</section>
-
-<h3>Languages</h3>
-<section id="languages" style="display: flex;flex-wrap: wrap;">
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="./assets/logos/python.png" alt="Python Logo by Python Software Foundation" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Python</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="./assets/logos/database.png" alt="sql mock logo" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">SQL</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/bash.png?raw=true" alt="Bash Logo by Bash Logo Media Assets" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Bash</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/html5.png?raw=true" alt="HTML5 Logo by w3c" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">HTML5</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/jslogo.png?raw=true" alt="Javascript Logo" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Javascript</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/css3.png?raw=true" alt="CSS3 Logo" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">CSS3</figcaption>
-</figure>
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="https://github.com/allyson04/tech-logos/blob/master/selenium.svg?raw=true" alt="Selenium Logo" style="line-height: 45px;vertical-align: middle;display: inline;width: 45px ;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Selenium</figcaption>
-</figure>
-</section>
-
-<h3>Badges</h3>
-<section id="badges" style="display: flex;flex-wrap: wrap;">
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="./assets/badges/Iniciativa Kubernetes - Explorador - Containers e Docker - 2021-09-29.png" alt="Iniciativa Kubernetes - Containers e Docker" style="line-height: 45px;vertical-align: middle;display: inline;width: 200px;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Iniciativa Kubernetes - Containers e Docker</figcaption>
-</figure>
-
-<figure style="border: 1px solid black;border-radius: 3px;padding: 5px 10px;">
-<img src="./assets/badges/Iniciativa Kubernetes - Desbravador - Deploy no Kubernetes - 2021-10-04.png" alt="Iniciativa Kubernetes - Deploy no Kubernetes" style="line-height: 45px;vertical-align: middle;display: inline;width: 200px;">
-<figcaption style="line-height: 45px;vertical-align: middle;display: inline;margin: 0 5px;">Iniciativa Kubernetes - Deploy no Kubernetes</figcaption>
-</figure>
 
 
-</section>
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=allyson04&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0A0F0B&fire=DD2727&stroke=C04E37&sideNums=BF4A3F&currStreakLabel=BF4A3F&border=C04E37&sideLabels=B5332E&dates=E0AA3E)](https://git.io/streak-stats)
+-->
+
+<a href="https://github.com/allyson04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=allyson04&show_icons=true&bg_color=0a0f0b&title_color=b5332e&icon_color=E0AA3E&text_color=bf4a3f&border_color=c04e37&count_private=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=allyson04&theme=highcontrast&date_format=j%20M%5B%20Y%5D&background=0A0F0B&fire=DD2727&stroke=C04E37&sideNums=BF4A3F&currStreakLabel=BF4A3F&border=C04E37&sideLabels=B5332E&dates=E0AA3E" />
+</a>
+<a href="https://github.com/allyson04">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allyson04&layout=compact&&bg_color=0a0f0b&title_color=b5332e&icon_color=E0AA3E&text_color=bf4a3f&border_color=c04e37" />
+</a>
+
+
