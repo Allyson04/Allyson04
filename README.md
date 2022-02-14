@@ -5,54 +5,27 @@ This is Allyson Eduardo Improved Readme, feel free to contact him by: ![email: a
 ## Description
 
 Allyson Eduardo is interested in DevOps, but as a junior in this "new" sector, is still getting the ropes of the main technologies and tools.
-
 Not just that, Allyson studied basic Development, and made many projects, such as:
-- https://github.com/Allyson04/fresquix_site
-- https://github.com/Allyson04/random_backgrounds
-- https://github.com/Allyson04/AmazingGraph
+
+https://github.com/Allyson04/fresquix_site | https://github.com/Allyson04/random_backgrounds | https://github.com/Allyson04/AmazingGraph
 
 and a repository with [his studies of javascript here](https://github.com/Allyson04/learning_javascript).
 
 With Docker and Kubernetes, a few projects were made, to train deployment and creation of docker images (Mainly from "Iniciativa Kubernetes" by Fabricio Veronez):
-- https://github.com/Allyson04/rotten-potatoes
-- https://github.com/Allyson04/conversao-peso
+
+https://github.com/Allyson04/rotten-potatoes | https://github.com/Allyson04/conversao-peso
 
 Focusing on Service Integrations, Development and Operations, Allyson is , to become more familiar with using CLI, but for today, only knowing Bash is what he does. That way, commands like `systemctl`, `ps`, `chmod`, `ipconfig`, etc, greatly needed for linux management (also considering daily commands as copy, move, rename and others) are part of what he knows.
 
 ## What Allyson know how to use
 
-### Tools
-  
-![](https://img.shields.io/badge/docker-lightgrey?logo=docker)
-![](https://img.shields.io/badge/github-blue?logo=github)
-![](https://img.shields.io/badge/Git-lightgrey?logo=git)
-![](https://img.shields.io/badge/PostgreSQL-brightgreen?logo=postgresql)
-![](https://img.shields.io/badge/Azure-blue?logo=azure-devops)
-![](https://img.shields.io/badge/Vim-green?logo=vim)
-![](https://img.shields.io/badge/Manjaro%20User-blue?logo=manjaro)
+### Tools: ![](https://img.shields.io/badge/docker-lightgrey?logo=docker) ![](https://img.shields.io/badge/github-blue?logo=github) ![](https://img.shields.io/badge/Git-lightgrey?logo=git) ![](https://img.shields.io/badge/PostgreSQL-brightgreen?logo=postgresql) ![](https://img.shields.io/badge/Azure-blue?logo=azure-devops) ![](https://img.shields.io/badge/Vim-green?logo=vim) ![](https://img.shields.io/badge/Manjaro%20User-blue?logo=manjaro) ![](https://img.shields.io/badge/Apache%20Netbeans%20IDE-blue?logo=apachenetbeanside) ![](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visualstudiocode)
 
-### Languages
-  
-![](https://img.shields.io/badge/Python-green?logo=python)
-![](https://img.shields.io/badge/GNU-Bash-black?logo=gnubash)
-![](https://img.shields.io/badge/HTML5-lightblue?logo=html5)
-![](https://img.shields.io/badge/Javascript-gray?logo=javascript)
-![](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![](https://img.shields.io/badge/Selenium-white?logo=selenium)
+### Languages: ![](https://img.shields.io/badge/Python-green?logo=python) ![](https://img.shields.io/badge/GNU-Bash-black?logo=gnubash) ![](https://img.shields.io/badge/HTML5-lightblue?logo=html5) ![](https://img.shields.io/badge/Javascript-gray?logo=javascript) ![](https://img.shields.io/badge/CSS3-blue?logo=css3) ![](https://img.shields.io/badge/Selenium-white?logo=selenium)
 
-### Learning
+### Learning: ![](https://img.shields.io/badge/WSO2-orange?logo=WSO2) ![](https://img.shields.io/badge/SQL-black?logo=sql)
 
-![](https://img.shields.io/badge/WSO2-orange?logo=WSO2)
-![](https://img.shields.io/badge/SQL-black?logo=sql)
-
-### Next steps
-
-![](https://img.shields.io/badge/Jenkins-white?logo=jenkins)
-![](https://img.shields.io/badge/Reinforce%20Kubernetes-red?logo=kubernetes)
-![](https://img.shields.io/badge/Elastic%20search-black?logo=elasticsearch)
-![](https://img.shields.io/badge/Logstash-blue?logo=logstash)
-![](https://img.shields.io/badge/Kibana-red?logo=kibana)
-![](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)
+### Next steps: ![](https://img.shields.io/badge/Jenkins-white?logo=jenkins) ![](https://img.shields.io/badge/Reinforce%20Kubernetes-red?logo=kubernetes) ![](https://img.shields.io/badge/Elastic%20search-black?logo=elasticsearch) ![](https://img.shields.io/badge/Logstash-blue?logo=logstash) ![](https://img.shields.io/badge/Kibana-red?logo=kibana) ![](https://img.shields.io/badge/Arch%20Linux-black?logo=archlinux)
 
 
 ### Badges
