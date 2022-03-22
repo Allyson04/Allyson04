@@ -1,6 +1,6 @@
 # Hi, Welcome to Allyson Eduardo's GitHub.</h1>
   
-This is Allyson Eduardo Improved Readme, feel free to contact him by: ![email: allysoneduardo04@gmail.com](https://img.shields.io/badge/email-allysoneduardo04@gmail.com-blue?logo=gmail), ![linkedin account: linkedin.com/in/allyson04](https://img.shields.io/badge/linkedin-in/allyson04-green?logo=linkedin) or ![Whatsapp Number: +55 21 96599 7873](https://img.shields.io/badge/whatsapp-+55%2021%2096599%207873-white?logo=whatsapp).
+This is Allyson Eduardo Improved Readme, feel free to contact him by: ![email: allysoneduardo04@gmail.com](https://img.shields.io/badge/email-allysoneduardo04@gmail.com-blue?logo=gmail), ![linkedin account: linkedin.com/in/allyson04](https://img.shields.io/badge/linkedin-in/allyson04-green?logo=linkedin) or ![Whatsapp Number: +351 914 981 407](https://img.shields.io/badge/whatsapp-+351%20914%20981%20407-white?logo=whatsapp).
 
 ## Description
 
